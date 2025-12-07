@@ -1,0 +1,8 @@
+[
+  {
+    "version": "0.1",
+    "url": "https://github.com/luisfpatrocinio/esp32-PatroRFID/releases/download/v0.1/firmware.bin",
+    "releaseNotes": "Esta é a primeira versão estável do leitor RFID portátil ESP32.",
+    "releaseDate": "2025-08-07T00:00:00Z"
+  }
+]
